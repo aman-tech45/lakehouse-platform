@@ -1,5 +1,44 @@
 # 🚀 Lakehouse Platform using Medallion Architecture
 
+A production-style Data Engineering project built using PySpark following the Medallion Architecture (Bronze → Silver → Gold).
+
+## Tech Stack
+
+- Python
+- PySpark
+- Delta Lake
+- SQL
+- ETL
+- Medallion Architecture
+- Data Validation
+- Git
+
+---
+
+## Features
+
+✔ Bronze Layer Ingestion
+
+✔ Silver Layer Cleansing
+
+✔ Gold Layer Business Aggregations
+
+✔ Incremental ETL
+
+✔ Logging
+
+✔ Error Handling
+
+✔ Data Quality Checks
+
+✔ Modular Pipeline
+
+✔ Configuration Driven
+
+✔ Production Folder Structure
+
+# 🚀 Lakehouse Platform using Medallion Architecture
+
 A production-style Data Engineering project built using **PySpark** that demonstrates the complete ETL lifecycle using the **Medallion Architecture (Bronze → Silver → Gold)**.
 
 This project ingests raw NYC Taxi trip data, performs data quality validation and transformation, and generates business-ready analytics.
